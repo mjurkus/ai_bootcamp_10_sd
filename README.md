@@ -2,7 +2,7 @@
 ### 140 hrs recordings from a permanent magnet synchronous motor (PMSM)
 
 The goals of this project are:
-- 1. Do exploratory data analysis.
+- Do exploratory data analysis.
 - Do feature engineering.
 - Create a sequential data preprocessing pipeline.
 - Build a recurrent deep learning model.
